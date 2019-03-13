@@ -1,7 +1,7 @@
 package com.demo.mobile.app
 
 import android.app.Application
-import android.support.annotation.VisibleForTesting
+import androidx.annotation.VisibleForTesting
 
 import javax.inject.Inject
 

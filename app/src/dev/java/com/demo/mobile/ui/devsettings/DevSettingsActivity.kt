@@ -2,7 +2,7 @@ package com.demo.mobile.ui.devsettings
 
 import android.content.Context
 import android.content.Intent
-import android.databinding.DataBindingUtil
+import androidx.databinding.DataBindingUtil
 import android.os.Bundle
 import com.demo.mobile.R
 import com.demo.mobile.ui.BaseActivity

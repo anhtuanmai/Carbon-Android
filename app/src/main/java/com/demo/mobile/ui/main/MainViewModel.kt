@@ -1,9 +1,9 @@
 package com.demo.mobile.ui.main
 
 import android.app.Application
-import android.databinding.Bindable
+import androidx.databinding.Bindable
 import android.os.Parcelable
-import android.support.annotation.VisibleForTesting
+import androidx.annotation.VisibleForTesting
 import com.demo.mobile.BR
 import com.demo.mobile.BuildConfig
 import com.demo.mobile.R
